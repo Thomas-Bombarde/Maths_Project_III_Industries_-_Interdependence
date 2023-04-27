@@ -1,4 +1,4 @@
-# Maths_Project_III_Industries_-_Interdependence
+# Code for Final-Year Mathematics Project: Industries and Interdependence
 Code used for results reviewed in Final Year Mathematics Project - Industries &amp; Interdependence: a Graph-based Study of Input-Output Economics
 *All data used within this code was taken from the World Input-Output Database Timmer, et al. (2014) and Mcnerney,
 et al. (2020), referenced in the report's main text. Code was written on local files.*
